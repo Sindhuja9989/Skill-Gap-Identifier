@@ -1,0 +1,1907 @@
+[
+    {
+        "Full Name": "Ava Wade",
+        "Experiences": {
+            "0": {
+                "Workplace": "Accenture",
+                "Role": "Technology Manager",
+                "Duration": "2021 - Present \u00b7 2 yrs",
+                "Workplace Location": "",
+                "Description": "\u25cfPlayed central role in high-profile performance assessment of document management system on SharePoint leading to identification of major issues in network, server farm, storage, and end-user computing\u25cfCompleted a data migration project in three months that consolidated customer and product data from multiple platforms to support marketing analytics"
+            },
+            "1": {
+                "Workplace": "Accenture",
+                "Role": "Senior Database Developer",
+                "Duration": "2018 - 2021 \u00b7 3 yrs",
+                "Workplace Location": "",
+                "Description": "\u25cfImplemented and supported HA and DR solution using VCS, EMC replication, and SQL mirroring. \u25cfEvaluated Hadoop technology for QRM (Quantitative Risk Management) modelling improvement.\u25cfPerformed troubleshooting for database and application performance issues. \u25cfMulti-datacenter geo-distributed k-v datastore to elevate the scalability and availability story of entire Uber tech stack\u25cfDistributed transactional datastore to provide strong consistency for critical business dataset\u25cfStorage gateway to provide storage abstraction, access conformance, and unified data management. \u25cfStorage architect group to provide architecture consulting/solutions to key stakeholders."
+            },
+            "2": {
+                "Role": "Product Manager",
+                "Workplace": "\u6210\u90fd\u8d85\u6709\u7231\u79d1\u6280\u6709\u9650\u516c\u53f8\uff08\u767e\u8bcd\u65a9\uff09 \u00b7 Full-time",
+                "Duration": "2016 - 2018 \u00b7 2 yrs",
+                "Workplace Location": "Chengdu, Sichuan, China \u00b7 On-site",
+                "Description": "\u25cfManaged content production intern team: organized and coordinated the SOP iteration of content production;Innovated the management and monitoring mechanism;   led a team of 15 to produce content.\u25cfOptimized the quality of the content by setting new standards and innovating audit mechanisms according to the feedback from users, which reduced the error rate by 60% and increased user satisfaction rate by 6%.\u25cfOrganized the internal testing of the new feature, produced optimization proposals based on the test results, and coordinated the technical and design teams to complete product iterations, improving the user satisfaction rate of the new feature by 9%;   improved the efficiency of content production of the new feature by 70%."
+            },
+            "3": {
+                "Workplace": "Alibaba Group",
+                "Role": "Senior Software Engineer",
+                "Duration": "2013 - 2015 \u00b7 2 yrs",
+                "Workplace Location": "",
+                "Description": "\u25cf be responsible for developing and creating commodity search engine, which serve 50 thousand of request per second\u25cf build batch and stream-processing system for engine, which has a data scale of 50TB and guarantee a latency less than 1 second\u25cf develop a framework for algorithm, which supply a workflow for commodity recommendation\u25cf communicate with product manager and finding lack common functions, creating projects to realize the system promotion"
+            },
+            "4": {
+                "Workplace": "Alibaba Group",
+                "Role": "Software Engineer",
+                "Duration": "2012 - 2013 \u00b7 1 yr",
+                "Workplace Location": "",
+                "Description": "\u25cf Launched a parcel waybill generating system, helping 15K+ merchants print waybills and deliver goods\u25cfProgrammed to generate organized waybill IDs (batch/serial numbers, tail labels, etc) with 99.9% accuracy, achieving idempotence, atomic operations and fault recovery mechanism with TDDL/Tair (K-V cache)\u25cf Built infrastructure of order-info datasources realizing service isolation and data synchronization among multiple region units (US/CN/SG/RU) with Spring/SpringBoot/RocketMQ/HSF(RPC), supporting 10+ business lines\u25cf Released the extended version to be used by the whole Global Order Tracking team (120+ people)"
+            },
+            "5": {
+                "Role": "Software Engineer",
+                "Workplace": "Quinnox \u00b7 Full-time",
+                "Duration": "2011 - 2012 \u00b7 1 yr",
+                "Workplace Location": "Guangzhou, Guangdong, China \u00b7 On-site",
+                "Description": "\u25cfUsing Java API to communicate with the database.\u25cfChecked the correctness of the operation log and uploading messages \u25cfImplemented update manager to upgrade clustered Stealthwatch appliances at central place\u25cf Involved in writing test cases to support functional testing and creating SQL scripts"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Microsoft SQL Server",
+            "Skill 1": "Applied Mathematics",
+            "Skill 2": "Algorithms",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "System Design",
+            "Skill 6": "Python",
+            "Skill 7": "Java",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Skill 14": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Shawna Una",
+        "Experiences": {
+            "0": {
+                "Role": "Owner",
+                "Workplace": "Forever Jewelry \u00b7 Self-employed",
+                "Duration": "Jun 2009 - Present \u00b7 13 yrs 8 mos",
+                "Workplace Location": "United States \u00b7 Hybrid",
+                "Description": "Skills: Fundraising \u00b7 Wellness"
+            },
+            "1": {
+                "Role": "Software Engineer",
+                "Workplace": "Leading light It",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": ""
+            }
+        },
+        "Skills": {
+            "Skill 0": "Fundraising",
+            "Skill 1": "Wellness",
+            "Skill 2": "Programming",
+            "Skill 3": "Data Structures",
+            "Skill 4": "Algorithms",
+            "Skill 5": "System Design",
+            "Skill 6": "Python",
+            "Skill 7": "Java",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Skill 14": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Asim Khan",
+        "Experiences": {
+            "0": {
+                "Workplace": "Senior Software Development Engineer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Align work with business goals to deliver products and services in a way that supports your strategic priorities. Strategic Portfolio Management (formerly IT Business Management) enables you to make the right decisions and leverage digital transformation, to drive more customer value faster. Plan, deliver, and track value across different methodologies."
+            },
+            "1": {
+                "Workplace": "Senior Software Development Engineer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: Glide \u00c2\u00b7 ServiceNow \u00c2\u00b7 JavaScript"
+            },
+            "2": {
+                "Workplace": "Senior Software Development Engineer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Strategic Portfolio Management"
+            },
+            "3": {
+                "Workplace": "Software Development Engineer ll",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: JavaScript \u00c2\u00b7 Java \u00c2\u00b7 PL/SQL"
+            },
+            "4": {
+                "Workplace": "Software Development Engineer ll",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "SAP Territory and Quota"
+            },
+            "5": {
+                "Role": "Software Engineer",
+                "Workplace": "Wipro Limited \u00c2\u00b7 Full-time",
+                "Duration": "Feb 2019 - Sep 2019 \u00c2\u00b7 8 mos",
+                "Workplace Location": "Hyderabad Area, India",
+                "Description": "Skills: Hibernate \u00c2\u00b7 Spring Boot \u00c2\u00b7 Microservices \u00c2\u00b7 Java"
+            },
+            "6": {
+                "Role": "Software Developer",
+                "Workplace": "Tata Consultancy Services",
+                "Duration": "Nov 2014 - Sep 2018 \u00c2\u00b7 3 yrs 11 mos",
+                "Workplace Location": "Pune Area, India",
+                "Description": "Skills: Ext JS \u00c2\u00b7 JavaScript \u00c2\u00b7 Java"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Hibernate",
+            "Skill 1": "Spring Boot",
+            "Skill 2": "Ext JS",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Josh Williams",
+        "Experiences": {
+            "0": {
+                "Role": "Distinguished Engineer",
+                "Workplace": "Meta",
+                "Duration": "Nov 2014 - Jan 2023 \u00b7 8 yrs 3 mos",
+                "Workplace Location": "Greater Seattle Area",
+                "Description": "Tech lead on Audience Network, Spark AR platform, Facebook Gaming, Facebook Videos and Metaverse"
+            },
+            "1": {
+                "Workplace": "Microsoft",
+                "Role": "Principal Engineering Manager",
+                "Duration": "Aug 2012 - Oct 2014 \u00b7 2 yrs 3 mos",
+                "Workplace Location": "",
+                "Description": "Led Windows 8, 8.1 developer platform team building WinJS"
+            },
+            "2": {
+                "Workplace": "Microsoft",
+                "Role": "Principal Software Engineer",
+                "Duration": "Jan 2003 - Aug 2012 \u00b7 9 yrs 8 mos",
+                "Workplace Location": "",
+                "Description": "Engineer on .Net CLR, M language compiler (never shipped commercially), and Windows 8 developer platform"
+            },
+            "3": {
+                "Role": "Software Engineer",
+                "Workplace": "Intel Corporation",
+                "Duration": "Jan 2000 - Jan 2003 \u00b7 3 yrs 1 mo",
+                "Workplace Location": "",
+                "Description": "Software Engineer at Intel Online Services"
+            },
+            "4": {
+                "Role": "Software Engineer Intern",
+                "Workplace": "Intel Corporation",
+                "Duration": "1997 - 1999 \u00b7 2 yrs",
+                "Workplace Location": "",
+                "Description": ""
+            }
+        },
+        "Skills": {
+            "Skill 0": "Software Design",
+            "Skill 1": "C#",
+            "Skill 2": "Distributed Systems",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Alex Nguyen",
+        "Experiences": {
+            "0": {
+                "Role": "Software Engineer",
+                "Workplace": "Google \u00b7 Full-time",
+                "Duration": "Jul 2022 - Present \u00b7 7 mos",
+                "Workplace Location": "Seattle, Washington, United States",
+                "Description": "Google Cloud - Marketplace"
+            },
+            "1": {
+                "Role": "Software Engineer",
+                "Workplace": "Microsoft \u00b7 Full-time",
+                "Duration": "Jun 2021 - Jun 2022 \u00b7 1 yr 1 mo",
+                "Workplace Location": "Redmond, Washington, United States",
+                "Description": "Power BI"
+            },
+            "2": {
+                "Role": "Software Development Engineer",
+                "Workplace": "Amazon",
+                "Duration": "Mar 2020 - Apr 2021 \u00b7 1 yr 2 mos",
+                "Workplace Location": "Greater Seattle Area",
+                "Description": "Amazon PaymentsDeveloped Amazon checkout and payment services to handle traffic of 10 Million daily global transactionsIntegrated Iframes for credit cards and bank accounts to secure 80% of all consumer traffic and prevent CSRF,cross-site scripting, and cookie-jackingImplemented Your Transactions front-end framework to showcase consumer transactions and reduce call centercosts by $25 MillionUtilized Amazon Bootstrap to stylize and decorate Your Payments pageIntegrated REST APIs to send and receive credit card information from secure endpoints and transaction historyfrom 10 million daily usersVisualized 30+ metrics and alarms with Scala and JS widgets to ensure consistent website functionalityReduced latency by 25% by removing deprecated API calls to internal Amazon services"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Public Speaking",
+            "Skill 1": "Python",
+            "Skill 2": "Microsoft Office",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Java",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Skill 14": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "Instagram automation",
+                "Date": "Aug 2018 - Present",
+                "Description": ""
+            },
+            "1": {
+                "Title": "NYS Babies",
+                "Date": "Jul 2018 - Present",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Sam Bean",
+        "Experiences": {
+            "0": {
+                "Workplace": "you.com",
+                "Role": "Staff Engineer",
+                "Duration": "Oct 2022 - Present \u00b7 4 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "1": {
+                "Workplace": "you.com",
+                "Role": "Software Engineer",
+                "Duration": "Oct 2021 - Oct 2022 \u00b7 1 yr 1 mo",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "2": {
+                "Workplace": "StockX",
+                "Role": "Engineering Manager, Machine Learning",
+                "Duration": "Dec 2020 - Oct 2021 \u00b7 11 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "3": {
+                "Workplace": "StockX",
+                "Role": "Senior Machine Learning Engineer",
+                "Duration": "Oct 2018 - Dec 2020 \u00b7 2 yrs 3 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "4": {
+                "Role": "Software Development Engineer",
+                "Workplace": "Amazon",
+                "Duration": "Apr 2017 - Oct 2018 \u00b7 1 yr 7 mos",
+                "Workplace Location": "Detroit, Michigan, United States",
+                "Description": "Software Developer for the Seller Performance Experience team at Amazon"
+            },
+            "5": {
+                "Role": "Sigint",
+                "Workplace": "National Air and Space Intelligence Center",
+                "Duration": "Aug 2016 - Mar 2017 \u00b7 8 mos",
+                "Workplace Location": "Dayton, Ohio Area",
+                "Description": "Currently working on machine learning, image processing, and computer vision solutions for analysis of threat radar. Also leading new employees to best understand their responsibilities and tasking in a new work environment."
+            },
+            "6": {
+                "Workplace": "University of Michigan",
+                "Role": "Research Assistant",
+                "Duration": "Apr 2015 - Dec 2015 \u00b7 9 mos",
+                "Workplace Location": "",
+                "Description": "Research in the computer vision lab at the University of Michigan. Work on supervoxel labeling tools and Nao robotics programming."
+            },
+            "7": {
+                "Workplace": "University of Michigan",
+                "Role": "Research Assistant",
+                "Duration": "2014 - Apr 2015 \u00b7 1 yr 4 mos",
+                "Workplace Location": "",
+                "Description": "Taking recorded speech and classifying for deception based on acoustic features."
+            },
+            "8": {
+                "Workplace": "University of Michigan",
+                "Role": "Instructional Aide",
+                "Duration": "Jan 2012 - Dec 2014 \u00b7 3 yrs",
+                "Workplace Location": "",
+                "Description": "I am in charge of the lab portion for students in EECS 270, Introduction to Hardware Engineering and Logic Circuit Design, at the University of Michigan College of Engineering."
+            }
+        },
+        "Skills": {
+            "Skill 0": "Machine Learning",
+            "Skill 1": "Statistical Data Analysis",
+            "Skill 2": "Speech Recognition",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Chamseddine BENHAMED",
+        "Experiences": {
+            "0": {
+                "Workplace": "Teads",
+                "Role": "Cloud Infrastructure Engineer",
+                "Duration": "Jul 2022 - Present \u00b7 7 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "1": {
+                "Workplace": "Teads",
+                "Role": "Software Engineer",
+                "Duration": "Aug 2021 - Jul 2022 \u00b7 1 yr",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "2": {
+                "Role": "Software Engineer",
+                "Workplace": "RTE R\u00e9seau de Transport d'Electricit\u00e9 \u00b7 Permanent",
+                "Duration": "Sep 2018 - Aug 2021 \u00b7 3 yrs",
+                "Workplace Location": "Paris Area, France",
+                "Description": "\u25fe  Design and develop multiple secure and stateless web-services in a micro-services architecture #Java11 #Spring #SpringBoot #WebFlux #SpringData ...\u25fe Contribute to the development of multiple front applications  #JS #React #Redux #Material_UI\u25fe Design and develop a component library for our front applications #JS #NWB\u25fe Set up the authentication layer for the applications\u25fe Conducting unit testing using automated unit test frameworks #Junit\u25fe Using coding standards and best practices to ensure quality #Sonar #CodeReview #Pair_Programming  #Code_Quality #Clean Code #Test_Coverage>80%\u25fe Set up a secure Kubernetes cluster on Azure to deploy the solution. #Docker #Kuberenetes #Azure #AKS\u25fe Set up a local development environment for our micro-services solution. #Compose \u25fe Contribute to the set up of the CICD pipelines. #Github_actions \u25fe Set up the ELK stack to centralize logs. #ELK #EFK\u25fe Design database schema for some micro services (for Postgres and Cassandra)\u25fe Scrum master of the Team: Animate scrum ceremonies #Scrum #ScrumMaster#Microservices #Software_Design #Java #Design_Patterns #Spring #SpringBoot #Hibernate #WebFlux #Maven #DevOps #Docker #Kubernetes #Azure #Code_Quality #Clean Code #Git #Reviews #Tests #Cassandra #NoSql #Postgres #Sql #Front #JS #React #Redux #Material-UI #RabbitMQ #Scrum #Co-construction #Agile #MVP #Certified_Scrum_master #European_project #Coreso #Power_Grid_System #Energy #Electricity #Analysis #Engineering #Challenges #Functional #Technical #OpenSource #Framework #Github #Powsybl #GridSuite #Linux_Foundation #TechLunchs #TeamWork #https://github.com/powsybl #https://github.com/gridsuite"
+            },
+            "3": {
+                "Role": "Software Engineer",
+                "Workplace": "COLAS \u00b7 Full-time",
+                "Duration": "Apr 2018 - Sep 2018 \u00b7 6 mos",
+                "Workplace Location": "Lyon Area, France",
+                "Description": "\u25fe Contribute to the development of new features in a road as a service platform which aims to enhance road security.\u25fe Design and develop a smart algorithm to calculate distance between two sentences using natural language processing techniques #NLP\u25fe Contribute to the development of a recommendation system that suggests actions to be taken  by the platform users (local authorities) based on a road situations (metrics values) to enhance road security. \u25fe Development of web application that aims to manage new proposed recommendations for some road situations,  calculate the closet available recommendations from  an expert database using the NLP developed solution.\u25fe Implement and test of some machine learning algorithms to predict the number of free parking spaces. Compare and analyze algorithms results.#NLP #Machine Learning #Deep Learning #AZURE #Python #Flask #REST"
+            },
+            "4": {
+                "Role": "Engineering Internship",
+                "Workplace": "Technologies Nouvelles /  AXIMUM  (COLAS)  \u00b7 Full-time",
+                "Duration": "May 2017 - Aug 2017 \u00b7 4 mos",
+                "Workplace Location": "Paris Area, France",
+                "Description": "\u25fe Design and development of an IoT solution for road traffic light controllers remote monitoring\u25fe Preliminary study, choice of architecture, choice of technology\u25fe Perform the PoC of the selected network and hardware solutions\u25fe Make code, data model and GUIs evolution for the principal solution\u25fe Perform integration tests before delivery and fix reported bugs\u25fe Write a technical report that can be used as support to the software team in future developments#IoT  #LPWAN #LoRa #C++   #REST    LoRa #PHP #JQuery #JS #MYSQL"
+            },
+            "5": {
+                "Role": "Engineering Internship",
+                "Workplace": "GreenControl",
+                "Duration": "Jun 2016 - Jul 2016 \u00b7 2 mos",
+                "Workplace Location": "Gouvernorat de la Manouba, Tunisia",
+                "Description": "\u25fe Design and development a stock management platformkeyWords : #PHP #Symphony #Hibernate #MySql"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Java",
+            "Skill 1": "Kubernetes",
+            "Skill 2": "Reactjs",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "CV maker",
+                "Date": "Jun 2015 - Present",
+                "Description": ""
+            },
+            "1": {
+                "Title": "Jeux 2D Circle the Camel",
+                "Date": "Jan 2015 - Present",
+                "Description": ""
+            },
+            "2": {
+                "Title": "ENSI ChatBot",
+                "Date": "Jul 2017 - Aug 2017",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Arpit Singh",
+        "Experiences": {
+            "0": {
+                "Role": "Project Manager & ML Engineer",
+                "Workplace": "Contract",
+                "Duration": "Mar 2021 - Present \u00b7 1 yr 11 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "1": {
+                "Role": "ML Consultant",
+                "Workplace": "ThirdAI Lab",
+                "Duration": "Apr 2022 - Present \u00b7 10 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "2": {
+                "Role": "Digital Marketing Strategist, Business Analyst",
+                "Workplace": "Upwork \u00b7 Freelance",
+                "Duration": "Jun 2020 - Apr 2021 \u00b7 11 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "3": {
+                "Role": "Software Engineer",
+                "Workplace": "Integrated Web Solutions \u00b7 Part-time",
+                "Duration": "Aug 2019 - Apr 2020 \u00b7 9 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "4": {
+                "Role": "Data Analyst",
+                "Workplace": "NITI Aayog \u00b7 Internship",
+                "Duration": "Oct 2018 - Dec 2018 \u00b7 3 mos",
+                "Workplace Location": "",
+                "Description": "\u2022 Analyzed the state of finance of the Third tier of Government to recommend uniform governance across all regions.\u2022 Scraped different sources of revenue and expenditure of the local bodies using Selenium and BeautifulSoup libraries of Python as part of data collection.\u2022 Identified the major trends by visualizing the disparities and similarities of services provided by different states using Matplotlib and Seaborn libraries.\u2022 Analyzed data through paired T-Test, ANOVA and Descriptive Statistics using tools like R, Advanced Excel, Tableau and SPSS to draw insights that were incorporated in a case study being developed by NITI Aayog."
+            }
+        },
+        "Skills": {
+            "Skill 0": "Python",
+            "Skill 1": "Deep Learning",
+            "Skill 2": "Data Science",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Java",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Skill 14": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Andrew Kim",
+        "Experiences": {
+            "0": {
+                "Role": "Head of Engineering",
+                "Workplace": "Bonside \u00b7 Full-time",
+                "Duration": "Nov 2022 - Present \u00b7 3 mos",
+                "Workplace Location": "New York City",
+                "Description": ""
+            },
+            "1": {
+                "Role": "Senior Software Engineer",
+                "Workplace": "Netflix",
+                "Duration": "Sep 2019 - Nov 2022 \u00b7 3 yrs 3 mos",
+                "Workplace Location": "Los Gatos, CA",
+                "Description": "End-to-end software design, development, testing, integration, and delivery for major partner integrations with the world\u2019s premier entertainment service\u2014bringing award-winning original content, TV shows, movies, documentaries, and more to an audience of 200M+ in more than 97% of countries around the world, across a wide range of devices and products."
+            },
+            "2": {
+                "Role": "Software Engineer",
+                "Workplace": "Stella.ai",
+                "Duration": "Jan 2017 - May 2019 \u00b7 2 yrs 5 mos",
+                "Workplace Location": "Redwood City, CA",
+                "Description": "Worked with a small but stellar team of data scientists and veteran founders to tackle AI-based recruiting for Fortune 500 companies.\u2022 Architected and built the web app used by recruiters at our 150 clients with React + Flask\u2022 Led initiative to add TypeScript and end-to-end tests across the JS codebase\u2022 Authored backend integrations with client Applicant Tracking Systems and dockerized development environment for a more fluid development experience"
+            },
+            "3": {
+                "Role": "Solutions Software Developer",
+                "Workplace": "Avanade",
+                "Duration": "Sep 2012 - Oct 2015 \u00b7 3 yrs 2 mos",
+                "Workplace Location": "New York City",
+                "Description": "Founded as a joint venture between Microsoft and Accenture, Avanade builds enterprise IT solutions focused on the Microsoft platform.\u2022 Developed enterprise CRM solutions with Microsoft Dynamics CRM for Fortune 1000 companies\u2022 Migrated over 7 million records from Salesforce to Dynamics CRM in 6 hours using a distributed, multithreaded data migration tool written in C# designed for high throughput"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Programming",
+            "Skill 1": "Data Structures",
+            "Skill 2": "Algorithms",
+            "Skill 3": "System Design",
+            "Skill 4": "Python",
+            "Skill 5": "Java",
+            "Skill 6": "C++",
+            "Skill 7": "Git",
+            "Skill 8": "Linux",
+            "Skill 9": "GitHub",
+            "Skill 10": "Docker",
+            "Skill 11": "Jenkins",
+            "Skill 12": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "Decentralized event ticketing platform on the Ethereum blockchain - POC",
+                "Date": "Jan 2016 - Jan 2016",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Pariss Chandler",
+        "Experiences": {
+            "0": {
+                "Role": "Founder & CEO",
+                "Workplace": "Black Tech Pipeline \u00b7 Full-time",
+                "Duration": "Sep 2020 - Present \u00b7 2 yrs 6 mos",
+                "Workplace Location": "International",
+                "Description": "Maintaining job board platform and relationships with job board clientsLeading and running all business operationsSourcing technologists in the Black Tech Pipeline talent database for recruitment clientsProviding 90-day check-ins to BTP hires and consultations to recruitment clients to ensure the safety & support of hires made through our platform"
+            },
+            "1": {
+                "Role": "Developer Success",
+                "Workplace": "G2i Inc. \u00b7 Full-time",
+                "Duration": "May 2019 - Oct 2020 \u00b7 1 yr 6 mos",
+                "Workplace Location": "",
+                "Description": "Vetting React and React Native EngineersSourcing Lever database and applicant applicationsInterviewing Engineers on their technical experience, job history and what they're looking for in their next opportunityChecking in with our hired and assigned Engineers"
+            },
+            "2": {
+                "Role": "jr Front End Developer",
+                "Workplace": "Genuine",
+                "Duration": "Nov 2018 - Apr 2019 \u00b7 6 mos",
+                "Workplace Location": "Boston, MA",
+                "Description": "Collaborating alongside developers and designers Turning interface designs into functional components Contributing to internal and external project meetings/demosCommunicating project/task status to technical and non-technical team members and clients"
+            },
+            "3": {
+                "Role": "Software Engineer",
+                "Workplace": "Follain",
+                "Duration": "Dec 2017 - Sep 2018 \u00b7 10 mos",
+                "Workplace Location": "Boston, MA",
+                "Description": "Writing client-side code for web-based single page application in ReactWorking alongside developers and designers to produce best user experience Building both dynamic and static responsive pages / landing pagesUnit testing, integration testing, and debugging client side codeWorking in Contentful to create dynamic data and manage site contentSetting up self-service management pages for marketing department using UnBounce"
+            },
+            "4": {
+                "Role": "Innovation & Technology",
+                "Workplace": "Hill Holliday \u00b7 Internship",
+                "Duration": "Jun 2017 - Aug 2017 \u00b7 3 mos",
+                "Workplace Location": "Boston, Massachusetts, United States",
+                "Description": "Collaborating with team members on various client projects on the innovation & technology teamParticipating in client meetings to discuss project plans and updates"
+            }
+        },
+        "Skills": {
+            "Skill 0": "HTML",
+            "Skill 1": "Cascading Style Sheets (CSS)",
+            "Skill 2": "jQuery",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "karthy VR",
+        "Experiences": {
+            "0": {
+                "Workplace": "JPMorgan Chase & Co.",
+                "Role": "Vice President",
+                "Duration": "2023 - Present \u00b7 2 mos",
+                "Workplace Location": "Plano, Texas, United States",
+                "Description": "Skills: Apache Kafka \u00b7 Kubernetes \u00b7 Apache Spark \u00b7 J2EE Application Development \u00b7 Java \u00b7 Amazon Web Services (AWS)"
+            },
+            "1": {
+                "Workplace": "JPMorgan Chase & Co.",
+                "Role": "Software Engineer",
+                "Duration": "Jan 2018 - Jan 2023 \u00b7 5 yrs 1 mo",
+                "Workplace Location": "",
+                "Description": "Skills: Apache Kafka"
+            },
+            "2": {
+                "Role": "Java - J2EE Developer",
+                "Workplace": "Cognizant",
+                "Duration": "Jan 2010 - Mar 2013 \u00b7 3 yrs 3 mos",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "3": {
+                "Role": "Senior Software Engineer",
+                "Workplace": "IBS Software Services",
+                "Duration": "Jul 2007 - Jan 2010 \u00b7 2 yrs 7 mos",
+                "Workplace Location": "",
+                "Description": ""
+            }
+        },
+        "Skills": {
+            "Skill 0": "Apache Kafka",
+            "Skill 1": "Kubernetes",
+            "Skill 2": "Apache Spark",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "AWS Cloud - K MeansClustering/Machine Learning/R Programming",
+                "Date": "Mar 2016 - Present",
+                "Description": ""
+            },
+            "1": {
+                "Title": "Hadoop MapReduce - Magnitude/Depth/Locations of Earthquakes",
+                "Date": "Mar 2016 - Present",
+                "Description": ""
+            },
+            "2": {
+                "Title": "AWS Cloud - Auto scaling/Elastic Load Balancing/Stress Testing",
+                "Date": "Feb 2016 - Present",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Victoria Konkiel",
+        "Experiences": {
+            "0": {
+                "Role": "Full Stack Software Engineer",
+                "Workplace": "Revature \u00b7 Full-time",
+                "Duration": "Sep 2022 - Present \u00b7 6 mos",
+                "Workplace Location": "",
+                "Description": "Skills: Requirements Analysis \u00b7 Full-Stack Development \u00b7 Databases \u00b7 REST APIs \u00b7 Jenkins \u00b7 JavaScript Libraries \u00b7 Microservices \u00b7 SQL \u00b7 Redux.js \u00b7 Bash \u00b7 Scrum \u00b7 Agile Methodologies \u00b7 Spring Boot \u00b7 Spring Data \u00b7 Spring MVC \u00b7 Amazon Web Services (AWS) \u00b7 PostgreSQL \u00b7 TypeScript \u00b7 Java \u00b7 Spring Framework \u00b7 React.js"
+            },
+            "1": {
+                "Workplace": "The DevPod",
+                "Role": "Apprentice Software Engineer",
+                "Duration": "Oct 2021 - Dec 2021 \u00b7 3 mos",
+                "Workplace Location": "",
+                "Description": "Collaborated with management and the DevPod to create an internal communications application that allows DevPod staff and students to communicate with one another and in groups."
+            },
+            "2": {
+                "Workplace": "The DevPod",
+                "Role": "Software Engineer",
+                "Duration": "Aug 2021 - Oct 2021 \u00b7 3 mos",
+                "Workplace Location": "Wilmington, Delaware, United States",
+                "Description": "Contracted with First Ascent Design through the DevPod and used Docker along with WordPress and a LAMP tech stack to build websites for clients."
+            }
+        },
+        "Skills": {
+            "Skill 0": "Requirements Analysis",
+            "Skill 1": "Full-Stack Development",
+            "Skill 2": "Databases",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "The Good Bank",
+                "Date": "",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Jenny Finch",
+        "Experiences": {
+            "0": {
+                "Role": "Software Engineer",
+                "Workplace": "JPMorgan Chase & Co. \u00b7 Full-time",
+                "Duration": "Aug 2021 - Present \u00b7 1 yr 7 mos",
+                "Workplace Location": "",
+                "Description": "Java, SQL, Spring, Kubernetes, AWS"
+            },
+            "1": {
+                "Role": "Instructional Assistant - Java Developer course",
+                "Workplace": "Per Scholas",
+                "Duration": "Mar 2021 - Aug 2021 \u00b7 6 mos",
+                "Workplace Location": "",
+                "Description": "Assist in virtual Java Programming class covering Java SE, Java EE, Spring MVC, Spring Boot, HTML, CSS, SQL, SDLC, Agile, and Web Services"
+            },
+            "2": {
+                "Role": "Software Engineer Intern",
+                "Workplace": "Alkami Technology \u00b7 Internship",
+                "Duration": "Aug 2020 - Dec 2020 \u00b7 5 mos",
+                "Workplace Location": "Plano, Texas, United States",
+                "Description": ""
+            },
+            "3": {
+                "Role": "Supervisor/Trainer/Personal Technology Expert",
+                "Workplace": "Support.com",
+                "Duration": "Oct 2011 - Sep 2019 \u00b7 8 yrs",
+                "Workplace Location": "",
+                "Description": "Directly  supervised team of 15-28 Tier 1 and 2 Remote Service Technicians for white labeled telecommunications company.Launched new department including assessing curriculum and training new hires.Taught technical training curriculum classes in a virtual environment. Remote diagnosis, troubleshooting and repair of computers, networks, and peripherals including malware removal, software installation, and software support.Educate consumers about security, malware, and any technical topic requested."
+            },
+            "4": {
+                "Role": "FSC Analyst",
+                "Workplace": "Verizon",
+                "Duration": "2006 - 2008 \u00b7 2 yrs",
+                "Workplace Location": "",
+                "Description": "FIOS Technical Customer Service duties in a call center environmentTelephone, Internet, and television support in FIOS (fiber optic) departmentWorked on elite team to provide internal support and solve unique issuesValuable team member and stepped up to leadership rolesMonitored and reported statistics and metrics as needed to management."
+            }
+        },
+        "Skills": {
+            "Skill 0": "Java",
+            "Skill 1": "JavaScript",
+            "Skill 2": "Full-Stack Development",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "C++",
+            "Skill 9": "Git",
+            "Skill 10": "Linux",
+            "Skill 11": "GitHub",
+            "Skill 12": "Docker",
+            "Skill 13": "Jenkins",
+            "Skill 14": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Chad Hallinan",
+        "Experiences": {
+            "0": {
+                "Role": "Software Engineer",
+                "Workplace": "Capital One \u00b7 Full-time",
+                "Duration": "Nov 2022 - Present \u00b7 4 mos",
+                "Workplace Location": "Richmond, Virginia, United States",
+                "Description": ""
+            },
+            "1": {
+                "Role": "Software Development Manager",
+                "Workplace": "AmeriSave Mortgage Corporation \u00b7 Full-time",
+                "Duration": "Jul 2022 - Sep 2022 \u00b7 3 mos",
+                "Workplace Location": "",
+                "Description": "Recruited and led a team of 4 developers to build Node/Typescript microservices to support an automated mortgage underwriting system.Planned Epics and wrote stories to match technical specification for Lift and Shift project to replace legacy Coldfusion server monolith application with Node.ts microservices to move application to cloud.Performed code reviews and feedback to ensure best practices.Technology used: Node, Typescript, Restful API, MSSQL, Gitlab, JIRA, Confluence, Proprietary Framework"
+            },
+            "2": {
+                "Workplace": "JPMorgan Chase & Co.",
+                "Role": "Associate Software Engineer",
+                "Duration": "Nov 2019 - Jul 2022 \u00b7 2 yrs 9 mos",
+                "Workplace Location": "Newark Delaware",
+                "Description": "Managed migrations of trade data from a legacy Java application to strategic Python applicationDirectly responsible for building and enhancing reports, reconciliations, and message feeds.Recruited and grew a Python based AGILE team. Responsible for implementing AGILE practices.Technology used: Python, SQL/NOSQL Databases, Proprietary Frameworks"
+            },
+            "3": {
+                "Workplace": "JPMorgan Chase & Co.",
+                "Role": "Software Engineer",
+                "Duration": "Sep 2018 - Jul 2022 \u00b7 3 yrs 11 mos",
+                "Workplace Location": "Newark, Delaware, United States",
+                "Description": "Developed using a python based in-house trade processing framework to directly support middle office applications.Directly responsible for building and enhancing reports, reconciliations, and message feeds.Collaborated with multiple teams to resolve errors, and ensure accurate data for compliance.Technology used: Python, SQL/NOSQL Databases, Proprietary Frameworks"
+            },
+            "4": {
+                "Role": "Software Developer in Training",
+                "Workplace": "Zip Code Wilmington",
+                "Duration": "May 2018 - Aug 2018 \u00b7 4 mos",
+                "Workplace Location": "Wilmington, Delaware",
+                "Description": "Underwent a rigorous 12 week training program to learn Java and a sampling of other coding languages in the pursuit of becoming a Software Developer"
+            },
+            "5": {
+                "Role": "Operations Manager",
+                "Workplace": "Abel Brothers Towing and Automotive",
+                "Duration": "Feb 2015 - Aug 2016 \u00b7 1 yr 7 mos",
+                "Workplace Location": "Malvern Pennsylvannia",
+                "Description": "Manage operations of a company that grosses ~2 million/year by communicating with insurance companies, maintaining all licenses and registrations and implementing proceduresOversee 20 employees by observing processes in order to increase productivityOrganize and process all Accounts Payable transactions and aid in Accounts Receivable as neededMaximize office productivity through proficient use of appropriate digital communication platforms and software applications"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Recruiting",
+            "Skill 1": "Interviews",
+            "Skill 2": "Public Speaking",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Sam Balaji",
+        "Experiences": {
+            "0": {
+                "Workplace": "Deloitte",
+                "Role": "Global Consulting Leader",
+                "Duration": "Mar 2019 - Present \u00b7 4 yrs",
+                "Workplace Location": "San Francisco Bay Area",
+                "Description": ""
+            },
+            "1": {
+                "Workplace": "Deloitte",
+                "Role": "Global Business Leader of Financial & Risk Advisory",
+                "Duration": "Sep 2016 - Mar 2019 \u00b7 2 yrs 7 mos",
+                "Workplace Location": "San Francisco Bay Area",
+                "Description": ""
+            },
+            "2": {
+                "Workplace": "Deloitte",
+                "Role": "Global Business Leader, Risk Advisory Services",
+                "Duration": "Oct 2016 - Feb 2018 \u00b7 1 yr 5 mos",
+                "Workplace Location": "San Francisco Bay Area",
+                "Description": ""
+            },
+            "3": {
+                "Role": "Practice Leader",
+                "Workplace": "CBSI, now CSC",
+                "Duration": "1989 - 1996 \u00b7 7 yrs",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "4": {
+                "Role": "Consultant",
+                "Workplace": "SWIFT",
+                "Duration": "1986 - 1989 \u00b7 3 yrs",
+                "Workplace Location": "",
+                "Description": ""
+            },
+            "5": {
+                "Role": "Software Engineer",
+                "Workplace": "Tata Burroughs",
+                "Duration": "1985 - 1986 \u00b7 1 yr",
+                "Workplace Location": "",
+                "Description": ""
+            }
+        },
+        "Skills": {
+            "Skill 0": "Management Consulting",
+            "Skill 1": "Business Strategy",
+            "Skill 2": "Business Process Improvement",
+            "Skill 3": "Business Analysis",
+            "Skill 4": "Problem-Solving",
+            "Skill 5": "Strategic Thinking",
+            "Skill 6": "Programming",
+            "Skill 7": "Data Structures",
+            "Skill 8": "Algorithms",
+            "Skill 9": "System Design",
+            "Skill 10": "Python",
+            "Skill 11": "Java",
+            "Skill 12": "C++",
+            "Skill 13": "Git",
+            "Skill 14": "Linux",
+            "Skill 15": "GitHub",
+            "Skill 16": "Docker",
+            "Skill 17": "Jenkins",
+            "Skill 18": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Aatir Abdul Rauf",
+        "Experiences": {
+            "0": {
+                "Workplace": "Director of Product Marketing",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "- Led lead generation from zero to thousands of qualified leads per month via inbound marketing efforts- Increased organic lead generation by over 500% in 24 months- Managed a team of 10 marketers, content writers & designers to drive growth through various marketing channels: SEO, SEM, Content, Social, Email Marketing & PR - Hands-on professional that worked his way up after working in each channel from writing blogs to composing emails/sequences and from running Google Ads to designing landing pages. - Led design and wrote copy of the initial versions vFairs marketing website. Worked with in-house professionals and agencies to keep optimizing conversion rates.- Managed product designers and owners to address customer pain points and wireframes enhancements- Worked with engineers and tech heads to pen down quarterly road maps and drive product teams to achieve OKRs"
+            },
+            "1": {
+                "Workplace": "Director of Product Marketing",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: Marketing Strategy"
+            },
+            "2": {
+                "Workplace": "Bayt.com",
+                "Role": "Director of Product Management & Marketing (B2B)",
+                "Duration": "Feb 2018 - Dec 2020 \u00b7 2 yrs 11 mos",
+                "Workplace Location": "Dubai / Lahore",
+                "Description": "As a Product Director of one of Bayt's most lucrative divisions, I lead a range of B2B SaaS products, primarily in the recruitment space. I'm responsible for product direction, development, sales enablement & demand generation for a number of products including Talentera (ATS), vFairs (virtual events platform), AfterHire (employee onboarding solution), Evalufy (video assessments solution) and Scanshake (career fair mobile app).Some achievements include:- Led team of product managers to deliver high-value features for Talentera, vFairs, Scanshake & AfterHire- Worked hands-on (wireframing, spec writing, project management) on complex HR modules like Recruitment SLA Measurement- Increased customer satisfaction on Talentera by rolling out an in-app chat service- Grew lead generation volumes of vFairs by 80% in the span of 2 years using a combination of SEM, email marketing & content marketing- Developed complete sales enablement collateral for 5 product lines from scratch- Creating a product process for AfterHire to achieve better product-market fit in first year of production- Led AfterHire pre-sales to generate a six-figure revenue pipeline within the first year"
+            },
+            "3": {
+                "Workplace": "Bayt.com",
+                "Role": "Senior Product Manager & Inbound Marketer",
+                "Duration": "Feb 2015 - Jan 2018 \u00b7 3 yrs",
+                "Workplace Location": "Dubai, UAE",
+                "Description": "I look after the following product lines in this role:- Talentera, an Applicant Tracking System- vFairs, a Virtual Events Platform- ScanShake, a resume capture mobile app- AfterHire, an employee onboarding platform- Evalufy, a video assessment / interview solutionI manage all five in 2 capacities: - As a Product Manager,  I decide the what/why/when and how behind the product- As an Online Marketer, I manage a team to generate leads via paid streams and inbound channelsAs a Product Manager of a SaaS platform like Talentera, I've managed to:- Lead a team of 2-3 product managers and designers to ship complex upgrade modules like Budget Management, Candidate Scorecarding and Offer Letters- Vastly improve navigational user experience through UI overhauls, better nomenclature and product messaging- Inject user onboarding and feature announcement features to improve uptakeAs an Online Marketer for Talentera, I've used email marketing, content marketing & PPC to increase qualified lead generation volumes by 45%+ in the past 12 monthsAs a Product Manager of vFairs, I've led the development of vertical features like embedded job boards & chat scheduling modules. I'm leading the re-design of our 3D environment and venturing into how AI can enhance our offerings. As an Online Marketer at vFairs, I've managed to increase the lead generation volume by 80%+ in the past 12 months by revamping the website design and using a mix of content & email marketing."
+            },
+            "4": {
+                "Workplace": "Bayt.com",
+                "Role": "Product Manager",
+                "Duration": "Dec 2011 - Feb 2015 \u00b7 3 yrs 3 mos",
+                "Workplace Location": "Dubai, UAE / Riyadh, KSA",
+                "Description": "A. Product Management for Talentera (a Bayt.com product) - Leading product development efforts for a comprehensive career portal / ATS solution, currently being used by hundreds of employers across the Middle East.  - Designed Talentera.com's marketing site and managing SEM efforts - Leading sales training exercises to ensure staff is aligned with product strategy and is equipped to deliver effective pitches.  - Working closely with the sales team on pre-sales efforts to assist in demonstrating product capability to potential clients. Also, performing various post-sales activities ranging from designing custom enhancements and ensuring quality of service.B. Project Management & Business Analysis:  Worked as a project manager on key high-budget government projects in Riyadh, KSA e.g. Taqat Online. Achievements / responsibilities in this area: - Provided business consultancy on product usage and roadmap - Managed and improve the customer support processes - Remotely managed engineering to deliver enhancements itemsC. Product management for YallaMotor.com:  YallaMotor.com is a Bayt-backed automobile website for the Middle East offering the latest prices, specs, features, photos of cars in the region, along with detailed expert reviews, comparison tools, price quotes etc. to enable the average consumer to making better car buying decisions.  Achievements / responsibilities: - Managing the product roadmap and working with development using an Agile approach  - Grew traffic to over 200K uniques/month in around 18 months - Responsible for implementing cutting edge SEO best practices (on-page, link building, micro formats, authorship markups etc.) - Collaborating with designer on UX and leading the charge on implementing latest frameworks like Twitter Bootstrap 3.0D. Led Product Design efforts on a few projects namely Khalifa Fund Gateway and a co-branded tablet app for Kidzania."
+            },
+            "5": {
+                "Workplace": "Product Manager",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Pakwheels.com is Pakistan's top online auto portal offering local consumers the ability to buy/sell used cars in an online marketplace along with powerful tools to research new cars .Responsibilities included:- Developing brand strategy and collaborating on the vision of the project- Researching market needs, designing solutions and translating them into product features- Wire-framing and prototyping use cases using Axure- Writing and maintaining product specifications- Coordinating requirements with the development team and prioritizing bug/enhancements during dev sprints- Measuring KPI & significant metrics of the sites (using Analytics) and devising strategies to optimize conversions- Collaborating on SEO strategies with marketing- Discovering and implementing monetization strategies to open new revenue streams- Conducting feasibility analysis of new ventures and business opportunities- Coordinating business development for our white-label platform (includes partner acquisition & relationship development)"
+            },
+            "6": {
+                "Workplace": "Product Manager",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "SEO 101"
+            },
+            "7": {
+                "Role": "Program Manager - Intern",
+                "Workplace": "Microsoft",
+                "Duration": "Jun 2008 - Aug 2008 \u00b7 3 mos",
+                "Workplace Location": "Redmond, WA, USA",
+                "Description": "Worked in the Office Business Applications group in a team called 'Office for Sales'Responsibilities included:- Analyzing an inter-system connectivity problem and suggesting creative solutions for a workaround. - Writing up Specs for the feature and identifying changes required to the current architecture.- Conducting extensive cross-group collaboration with partner teams like SharePoint and MS Dynamics and convincing decision makers to approve the proposed design changes through presentations"
+            },
+            "8": {
+                "Role": "Software Engineer",
+                "Workplace": "Techlogix",
+                "Duration": "Jun 2006 - Jul 2007 \u00b7 1 yr 2 mos",
+                "Workplace Location": "Lahore, Pakistan",
+                "Description": "Worked for two clients in Techlogix1. Patheo (Airline ticket reservation web sites)  - Worked on the airline booking engine in ASP.NET 2.0 and SQL Server 2000. - Developed PNR generation module and XML-based integration components 2. Motorola Business Process Management Software  - Developed and designed a comprehensive reporting module in Crystal Reports XI and Oracle."
+            }
+        },
+        "Skills": {
+            "Skill 0": "Product Management",
+            "Skill 1": "User Experience",
+            "Skill 2": "SEO",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "0": {
+                "Title": "ScanShake",
+                "Date": "Mar 2018 - Present",
+                "Description": ""
+            },
+            "1": {
+                "Title": "vFairs",
+                "Date": "Jun 2014 - Present",
+                "Description": ""
+            },
+            "2": {
+                "Title": "Talentera",
+                "Date": "Aug 2013 - Present",
+                "Description": ""
+            },
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    },
+    {
+        "Full Name": "Azola Martin",
+        "Experiences": {
+            "0": {
+                "Workplace": "Campus Civic Influencer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "As a civic influencer, we use ongoing research and evidence-based voter engagement strategies including organizing, advocacy, and education for youth in efforts to create a more equitable and inclusive democracy."
+            },
+            "1": {
+                "Workplace": "Campus Civic Influencer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: Public Speaking \u00b7 Organization Skills \u00b7 Strategic Leadership \u00b7 Creative Problem Solving \u00b7 Innovation Development"
+            },
+            "2": {
+                "Workplace": "Samsung College Influencer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "- Increase brand awareness and product affinity by developing an authentic and relevant Gen Z brand voice and experience- Increase market share at program schools- Drive students to Samsung.com landing page with Gen Z-relevant product messaging, content, and discount offers"
+            },
+            "3": {
+                "Workplace": "Samsung College Influencer",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: Creative Content Creation \u00b7 Time Management \u00b7 Technological Innovation \u00b7 Organization Skills \u00b7 Leadership"
+            },
+            "4": {
+                "Role": "CodeHouse Scholar",
+                "Workplace": "CODEHOUSE",
+                "Duration": "Jun 2021 - Present \u00b7 1 yr 9 mos",
+                "Workplace Location": "Atlanta, Georgia, United States",
+                "Description": "- Selected as one of the twenty-nine students to become a scholar apart of the CHSI inaugural cohort- Completed an accelerated four-week intro to computer science curriculum while learning Python in the Summer Bridge Academy- Acquired in-depth instruction in computer science, graphic UI/UX design, human interaction, and information technology fields- Sharpened leadership skills through workshops along with one-on-one coaching in the areas of team building, public speaking, and problem-solving- Obtained personal career mentorship from chief employees at well-known companies such as Google, PayPal, Twitter, and Microsoft"
+            },
+            "5": {
+                "Workplace": "Firmwide Strategy Student Consultant",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Developed a multi-channel financial wellness program for Morgan Stanley\u2019s Strategy & Operations team to enhance employee relationships post-COVID and reduce the economic concerns of Black/Hispanic workers at the bank."
+            },
+            "6": {
+                "Workplace": "Firmwide Strategy Student Consultant",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Skills: McKinsey \u00b7 Financial Wellness \u00b7 Microsoft PowerPoint \u00b7 Scrum \u00b7 Project Management Training \u00b7 Agile Project Management"
+            },
+            "7": {
+                "Workplace": "Firmwide Strategy Student Consultant",
+                "Role": "",
+                "Duration": "",
+                "Workplace Location": "",
+                "Description": "Training Camp"
+            },
+            "8": {
+                "Role": "Software Engineer",
+                "Workplace": "PayPal \u00b7 Internship",
+                "Duration": "Jun 2022 - Aug 2022 \u00b7 3 mos",
+                "Workplace Location": "Atlanta, Georgia, United States",
+                "Description": "Skills: Front-End Development \u00b7 Python (Programming Language)"
+            }
+        },
+        "Skills": {
+            "Skill 0": "Project Management",
+            "Skill 1": "Strategy",
+            "Skill 2": "Customer Service",
+            "Skill 3": "Programming",
+            "Skill 4": "Data Structures",
+            "Skill 5": "Algorithms",
+            "Skill 6": "System Design",
+            "Skill 7": "Python",
+            "Skill 8": "Java",
+            "Skill 9": "C++",
+            "Skill 10": "Git",
+            "Skill 11": "Linux",
+            "Skill 12": "GitHub",
+            "Skill 13": "Docker",
+            "Skill 14": "Jenkins",
+            "Skill 15": "Kubernetes",
+            "Python (Beginner)": "Python",
+            "Java (Beginner)": "Java",
+            "C++ (Beginner)": "C++",
+            "Data Structures (Beginner)": "Data Structures",
+            "Algorithms (Beginner)": "Algorithms",
+            "System Design (Intermediate)": "System Design",
+            "OOP (Intermediate)": "OOP",
+            "SQL (Intermediate)": "SQL",
+            "Linux (Intermediate)": "Linux",
+            "Docker (Advanced)": "Docker",
+            "Kubernetes (Advanced)": "Kubernetes",
+            "Cloud Computing (Advanced)": "Cloud Computing",
+            "CI/CD (Advanced)": "CI/CD",
+            "Tool: GitHub": "GitHub",
+            "Tool: Jenkins": "Jenkins",
+            "Tool: AWS": "AWS",
+            "Tool: Terraform": "Terraform"
+        },
+        "Projects": {
+            "Project 0": "E-commerce Website",
+            "Project 1": "E-commerce Platform",
+            "Project 2": "Real-time Chat Application"
+        },
+        "Soft Skills": [
+            "Problem-Solving",
+            "Code Optimization",
+            "Teamwork"
+        ],
+        "Experience Levels": {
+            "Entry": [
+                "Basic coding skills",
+                "Understanding of OOP"
+            ],
+            "Mid": [
+                "Designing APIs",
+                "Performance optimization"
+            ],
+            "Senior": [
+                "Leading teams",
+                "Scalable system design"
+            ]
+        },
+        "Skill Weightage": {
+            "Data Structures": 10,
+            "System Design": 9,
+            "Kubernetes": 6,
+            "CI/CD": 5
+        }
+    }
+]
